@@ -14,8 +14,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2AAC07D0554694100DB518D"
-               BuildableName = "libiMonkey-iphoneos.a"
-               BlueprintName = "iMonkey-iphoneos"
+               BuildableName = "libiMonkey.a"
+               BlueprintName = "iMonkey"
                ReferencedContainer = "container:iMonkey.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
